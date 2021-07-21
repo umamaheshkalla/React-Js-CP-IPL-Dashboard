@@ -1,0 +1,30 @@
+.latest-match-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #0f172a;
+  width: 100vh;
+  border-radius: 10px;
+}
+.latest-match-content-container {
+  margin-left: 20px;
+  margin-right: 10px;
+}
+.competing-logo {
+  height: 120px;
+  width: 130px;
+  margin: 15px;
+  margin-right: 35px;
+}
+.latest-match-content {
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 13px;
+  color: #ffffff;
+}
+.latest-match-content-headings {
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  font-size: 16px;
+  color: #ffffff;
+}
